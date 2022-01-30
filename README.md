@@ -3,7 +3,7 @@
 - 🎓 Bachelor's Degree in Computer Engineering
 - 🌱 Learning ReactJS and Node.js
 - 👯 I’m looking to collaborate on Social impact open source projects
-- 💬 Ask me about `[HTML, CSS, Javascript, Arduino]`
+- 💬 Ask me about `[HTML, CSS, Javascript, ReactJS, Arduino]`
 - 😄 Pronouns: Him/His
 - #NeverStopLearning
 
