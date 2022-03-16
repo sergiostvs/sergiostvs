@@ -1,9 +1,9 @@
 # Hi There, I'm Sergio Henrique 👋
 
 - 🎓 Bachelor's Degree in Computer Engineering
-- 🌱 Learning ReactJS and Node.js
+- 🌱 ReactJS and NextJS developer
 - 👯 I’m looking to collaborate on Social impact open source projects
-- 💬 Ask me about `[HTML, CSS, Javascript, ReactJS, Arduino]`
+- 💬 Ask me about `[HTML, CSS, Javascript, ReactJS, NextJS, Arduino]`
 - 😄 Pronouns: Him/His
 - #NeverStopLearning
 
